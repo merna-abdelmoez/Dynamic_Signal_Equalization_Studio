@@ -1,0 +1,2 @@
+# Dynamic_Signal_Equalization_Studio
+Dynamic Signal Equalization Studio
