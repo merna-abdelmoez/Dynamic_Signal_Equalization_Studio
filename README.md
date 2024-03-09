@@ -34,10 +34,10 @@ The application also offers the flexibility to apply a multiplication/smoothing 
 
 ## Preview:
 
-![Screenshot 1](Task%203/ss/1.png)
-![Screenshot 2](Task%203/ss/2.png)
-![Screenshot 3](Task%203/ss/3.png)
-![Screenshot 4](Task%203/ss/4.png)
+![Screenshot 1](Task%203/screenshots/1.png)
+![Screenshot 2](Task%203/screenshots/2.png)
+![Screenshot 3](Task%203/screenshots/3.png)
+![Screenshot 4](Task%203/screenshots/4.png)
 
 ## Contributors <a name = "Contributors"></a>
 
