@@ -46,7 +46,7 @@ The application also offers the flexibility to apply a multiplication/smoothing 
     <td align="center">
       <div style="text-align:center; margin-right:20px;">
         <a href="https://github.com/OmarEmad101">
-          <img src="https://github.com/OmarEmad101.png" width="100px" alt="@OmarEmad101">
+          <img src="https://github.com/OmarEmad101.png" width="200px" alt="@OmarEmad101">
           <br>
           <sub><b>Omar Emad</b></sub>
         </a>
@@ -55,7 +55,7 @@ The application also offers the flexibility to apply a multiplication/smoothing 
     <td align="center">
       <div style="text-align:center; margin-right:20px;">
         <a href="https://github.com/Omarnbl">
-          <img src="https://github.com/Omarnbl.png" width="100px" alt="@Omarnbl">
+          <img src="https://github.com/Omarnbl.png" width="200px" alt="@Omarnbl">
           <br>
           <sub><b>Omar Nabil</b></sub>
         </a>
@@ -64,7 +64,7 @@ The application also offers the flexibility to apply a multiplication/smoothing 
     <td align="center">
       <div style="text-align:center; margin-right:20px;">
         <a href="https://github.com/KhaledBadr07">
-          <img src="https://github.com/KhaledBadr07.png" width="100px" alt="@KhaledBadr07">
+          <img src="https://github.com/KhaledBadr07.png" width="200px" alt="@KhaledBadr07">
           <br>
           <sub><b>Khaled Badr</b></sub>
         </a>
@@ -73,7 +73,7 @@ The application also offers the flexibility to apply a multiplication/smoothing 
     <td align="center">
       <div style="text-align:center; margin-right:20px;">
         <a href="https://github.com/merna-abdelmoez">
-          <img src="https://github.com/merna-abdelmoez.png" width="100px" alt="@merna-abdelmoez">
+          <img src="https://github.com/merna-abdelmoez.png" width="200px" alt="@merna-abdelmoez">
           <br>
           <sub><b>Mirna Abdelmoez</b></sub>
         </a>
